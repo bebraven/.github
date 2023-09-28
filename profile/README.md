@@ -1,4 +1,4 @@
-[![Braven-Logo](assets/logo.png)](https://braven.org)
+[![Braven-Logo](logo.png)](https://braven.org)
 
 # Braven 
 > Empowering the next generation of leaders
