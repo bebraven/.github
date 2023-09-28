@@ -1,4 +1,4 @@
-![Braven-Logo](https://github.com/bebraven/.github/assets/17738/f7fe59a8-93a9-4858-8405-f0df2ea67791)
+[![Braven-Logo](assets/logo.png)](https://braven.org)
 
 # Braven 
 > Empowering the next generation of leaders
